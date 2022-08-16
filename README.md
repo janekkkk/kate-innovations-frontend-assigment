@@ -39,7 +39,7 @@ The goal of this assignment is to convert the provided designs below to a workin
 
 ### Global dependencies
 
-Make sure you have Node 14 installed. The project supports nvm:
+Make sure you have Node 14 installed.
 - [Node.js](https://nodejs.org/)
 
 ### Install dependencies
