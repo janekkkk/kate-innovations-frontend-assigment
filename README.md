@@ -30,10 +30,10 @@ The goal of this assignment is to convert the provided designs below to a workin
     - White: `#FFFFFF` 
 - Font used is `Helvetica`
 - Static assets
-    - [Product image 1 png](./public/assets/images/product-1-transparent.png)
-    - [Product image 1 webp](./public/assets/images/product-1-transparent.webp)
-    - [Product image 2 png](./public/assets/images/product-2-transparent.png)
-    - [Product image 2 webp](./public/assets/images/product-2-transparent.webp)
+    - [Product image 1 png](./public/products/product-1-transparent.png)
+    - [Product image 1 webp](./public/products/product-1-transparent.webp)
+    - [Product image 2 png](./public/products/product-2-transparent.png)
+    - [Product image 2 webp](./public/products/product-2-transparent.webp)
 
 ## Usage
 
