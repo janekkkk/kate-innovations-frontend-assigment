@@ -39,7 +39,7 @@ The goal of this assignment is to convert the provided designs below to a workin
 
 ### Global dependencies
 
-Make sure you have Node 14 installed.
+Make sure you have Node 16 installed.
 - [Node.js](https://nodejs.org/)
 
 ### Install dependencies
@@ -58,6 +58,8 @@ Open your browser on http://localhost:3000
 
 Vite will watch for changes in the `./src` directory and render them on the fly.
 
+It also starts a fake server with a REST API on http://localhost:4000. It has frequently asked questions (/faqs) and products (/products)
+
 ### Build production bundles
 
 ```
@@ -75,10 +77,9 @@ The boilerplate consists of following tech stack and should run out of the box w
 
 - Vite
 - Typescript
-- Sass 
-- ES Modules
-- Tailwind CSS
+- Sass and Tailwind
 - Testing with Jest and React Testing Library
+- Json-server as a fake REST API
 
 ## Questions
 
